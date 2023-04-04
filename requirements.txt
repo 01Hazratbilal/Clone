@@ -1,5 +1,3 @@
-
-tempfile
 streamlit
 base64
 google-cloud-texttospeech
