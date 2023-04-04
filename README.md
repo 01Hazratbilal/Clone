@@ -1,4 +1,0 @@
-# Clone
-# Pull
-# update pull
-
