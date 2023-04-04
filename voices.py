@@ -2,7 +2,6 @@ import os
 import tempfile
 from google.cloud import texttospeech
 import streamlit as st
-
 import base64
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "google.json"
