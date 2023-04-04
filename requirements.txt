@@ -1,6 +1,7 @@
 os
-import tempfile
-google.cloud
-texttospeech
+tempfile
 streamlit
 base64
+google-cloud-texttospeech
+google-auth
+streamlit
