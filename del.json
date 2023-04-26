@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "medaudium",
+  "private_key_id": "1f93a3f273a387754cab6230c9c0f3e489d24e58",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCVv1HZMIgJsyE7\nIsl7eEzU30fUNCGlvlzV+GkyAG65UjobffK69BbkpDoeGwEw57RxL1B1Wv73xXwU\nui6iqxuMT84cXsc2knCOPKVZMCvrEio5KarZ/pMC2ExW/RVQBB0AlAckIgJ8Xv0f\nBexM/R9nyN2n2y99Ag78V1qcjzfAKIYkvJHTeyUvA7RJnsAesSkm2yHC86NKF6Uq\nF50FT5dsn0MRiQJF5FtEtRru6uqvNjne3fZzO5p7Zu2zqkOxBuuTKM6ttLDIeLNY\nAc1u32efqZ68IDKEn33adZrI25fPOmLPWfuQtcsiALjlFDZsuamaLy2eTIj+yEHz\ne3gZ3mZXAgMBAAECggEAIX7zrHzmGSFYABXWcsdkjENLmmR02FG+C2CvCy+8lLiX\nZdnk5zu9OTShCWXp/Mn/e0flm/KYUMz8ZdiFoP5cQaUCSidLMWJNSgu3wrz7PfBI\nwJOY83013i+K1/RxhX3+DMiP1l3DJ5XJ0dwt0MTX9wufxTHKrBA/UOOrUZTZmCJA\nofWCEzL/g9QippesDkVZI+WA1mlJTZ7OaEoCC69wpxUQb2Q/U6vp9XykgNY5zj5z\nAvPlJpoGm7SNnhznEiPbabuErYic6tLF1TgMS15H+o6v2F1i/Dzs412VmWxoGZjm\n5gcdAGlHLNgVKRzR9HYxp4x4dgAuSLW8X8iLLVrSKQKBgQDRQHfGZlcyBOXOp3bW\nBKluUB0g9/iKuwfxkoxRQg4MmLyNANgabQhQUb3/GqA1bmzGUlkiVWzzbz3dd+ut\nAZGhVWEbNszQ2w4KDvlLDpFDL9WWG3ofNGVTlg52eh3AKmFZh+L3IVImW3sBT45+\nOtZedHxxV26/X3hNyBNZZyagvwKBgQC3M6u/ZAGGwbqGEkxUxGSXYDNH8pxzduqt\n5/RQJH/ad7hsjh3NNWai3vEr4w2ISULDTfNFop6d3dqu+EjFT6F6udtApNHhfdDG\nHfH21sPEf1vYhA7AcutO8X0aLcnkN5/8BGXTDJHMDD06UWhuyK3PkwPOwNWyfFMf\nMsBaUZ+IaQKBgDMbwuVzg6KU7ahO4MifNN7btHGj/1GrIuKO/7StJI9REuSBq0ax\nENHFVVmkoDLMuMarwFeRc931cq/QJYEJHA/Cscga12W/yysLwzng4fv+B/X02hwb\nCRCkWv33D6Mq9sIOXZIs0krKFz4Xt17/cfJ6Exb/2u3lHJYq4wb4GcgzAoGBAKdI\n7GQYanhlf++a185zgrLjKhBhjdC1XnesHV/s5D5WIbYmUzolr/G7B5eefaXb17XF\nAQWuB455nY01tCVPoFETUwyFNAzmOPQfNenClAJilThw5ZN/nDR6uFRmSTs2O8UB\nMwVzLdKXvnT5DxZR8rxfLxPk631OnwwW6KPQco85AoGASrR+UZtWiDKqngm30EJf\npR4jlgJfQ8Sa+9yJYZqGOJbhhSu0ngWvBzVkPpEo8WufvyfQUMaB3atw6bGUZCCI\nQBZtnwV2jR8gM67YlRmpgJRSw90Yw0OnnF5gQbyv2ICGAzuN2fTAMMzPWdRWNQP4\nMqFfU7hIAwBOGHPPJpeGVQc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "abc-656@medaudium.iam.gserviceaccount.com",
+  "client_id": "111507049395504029509",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/abc-656%40medaudium.iam.gserviceaccount.com"
+}
