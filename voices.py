@@ -4,7 +4,7 @@ from google.cloud import texttospeech
 import streamlit as st
 import base64
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "./google.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "./del.json"
 
 def synthesize_text(text, voice_name):
     client = texttospeech.TextToSpeechClient()
