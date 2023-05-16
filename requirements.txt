@@ -5,5 +5,3 @@ streamlit
 pandas
 numpy
 scipy
-
-st_aggrid
