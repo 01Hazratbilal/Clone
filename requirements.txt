@@ -2,3 +2,9 @@
 google-cloud-texttospeech
 google-auth
 streamlit
+pandas
+numpy
+scipy
+io
+streamlit.components.v1
+st_aggrid
