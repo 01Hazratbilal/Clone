@@ -5,5 +5,5 @@ streamlit
 pandas
 numpy
 scipy
-streamlit.components.v1
+
 st_aggrid
