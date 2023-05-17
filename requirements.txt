@@ -6,5 +6,5 @@ pandas
 numpy
 scipy
 streamlit_extras
-pip install st-aggrid
+st-aggrid
 
