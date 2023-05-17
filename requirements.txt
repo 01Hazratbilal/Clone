@@ -1,3 +1,4 @@
+streamlit-aggrid
 st-aggrid
 google-cloud-texttospeech
 google-auth
