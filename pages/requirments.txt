@@ -1,5 +1,5 @@
 streamlit-aggrid
-st-aggrid
+st_aggrid_pro 
 google-cloud-texttospeech
 google-auth
 streamlit
