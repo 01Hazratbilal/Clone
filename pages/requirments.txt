@@ -1,1 +1,10 @@
 
+streamlit-aggrid
+
+google-cloud-texttospeech
+google-auth
+streamlit
+pandas
+numpy
+scipy
+streamlit_extras
