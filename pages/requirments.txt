@@ -1,8 +1,0 @@
-
-streamlit-aggrid
-streamlit_extras
-google-cloud-texttospeech
-google-auth
-streamlit
-pandas
-numpy
