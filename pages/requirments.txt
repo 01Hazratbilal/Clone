@@ -1,6 +1,6 @@
 
 streamlit-aggrid
-
+streamlit-extras
 google-cloud-texttospeech
 google-auth
 streamlit
