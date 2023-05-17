@@ -6,7 +6,7 @@ import io
 from io import StringIO
 import streamlit.components.v1 as components
 import sys
-from st_aggrid import AgGrid
+from st_aggrid_pro import AgGridPro
 
 
 # To have Wide page
@@ -352,4 +352,4 @@ if edit:
 
 
 
-AgGrid(data, editable=True, fit_columns_on_grid_load=True, update_mode="value_changed")
+AgGridPro(data, editable=True, fit_columns_on_grid_load=True, update_mode="value_changed")
