@@ -6,7 +6,7 @@ import io
 from io import StringIO
 import streamlit.components.v1 as components
 import sys
-from st_aggrid import AgGrid
+from st_aggrid_pro import AgGrid
 
 
 # To have Wide page
