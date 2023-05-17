@@ -1,5 +1,5 @@
 streamlit-aggrid
-scipy
+
 google-cloud-texttospeech
 google-auth
 streamlit
