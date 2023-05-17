@@ -1,4 +1,4 @@
-AgGrid
+streamlit-aggrid
 google-cloud-texttospeech
 google-auth
 streamlit
