@@ -1,6 +1,5 @@
 google-cloud-texttospeech
-google_cloud_texttospeech
-google-cloud-texttospeech
+
 google-auth
 streamlit
 pandas
